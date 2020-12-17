@@ -19,7 +19,7 @@ GET /api/teams
 GET /api/teams/12
 
 GET /api/persons/42
-\
+
 GET /api/countries
 
 
