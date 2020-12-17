@@ -1,4 +1,4 @@
-# Zadanie testowe
+# Symfony 4.4 - zadanie testowe
 
 
 # utworzenie baz i migracja danych
