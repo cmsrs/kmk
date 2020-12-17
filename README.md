@@ -6,7 +6,7 @@
 ./go_creat_db.sh
 ```
 
-# utworzenie bazy dla testow jednostkowych i wywolanie testow jednostrowych
+# utworzenie bazy dla testow jednostkowych i wywolanie testow jednostkowych
 
 ```bash
 ./go_creat_db_test_run_tests.sh
