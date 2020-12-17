@@ -3,13 +3,13 @@
 
 # utworzenie baz i migracja danych
 ```bash
-./go_creat_db.sh
+./go_create_db.sh
 ```
 
 # utworzenie bazy dla testow jednostkowych i wywolanie testow jednostkowych
 
 ```bash
-./go_creat_db_test_run_tests.sh
+./go_create_db_test_run_tests.sh
 ```
 
 przypadki testowe wywolywane w testach jednostkowych:
